@@ -36,7 +36,7 @@ To get started with this project, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/OsamahSharaf/Optimizing-Marketing-/edit/main
+git clone https://github.com/OsamahSharaf/Optimizing-Marketing-
 
 Install the required libraries:
 
